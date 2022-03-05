@@ -685,7 +685,7 @@ h2.menu-item:after {
     width: 7px;
     height: 7px;
     border-radius: 50%;
-    background: #c43535;
+    background: #35c448;
     content: '';
 }
 
@@ -696,7 +696,7 @@ h2.menu-item:after {
     width: 15px;
     height: 15px;
     border-radius: 50%;
-    background: #c43535;
+    background: #35c448;
     content: '';
     opacity: 0.3
 }
